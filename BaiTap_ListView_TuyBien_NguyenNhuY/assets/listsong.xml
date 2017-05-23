@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<music>
+	<song>
+        <id>01</id>
+        <title>Tìm Lại Bầu Trời</title>
+        <singer>Tuấn Hưng</singer>
+        <duration>5:28</duration>
+        <icon>tuanhung</icon>
+    </song>
+    <song>
+        <id>02</id>
+        <title>Như Một Giấc Mơ</title>
+        <singer>Mỹ Tâm</singer>
+        <duration>10:32</duration>
+        <icon>mytam</icon>
+    </song>
+    <song>
+        <id>03</id>
+        <title>Gửi Người Yêu Cũ</title>
+        <singer>Hồ Ngọc Hà</singer>
+        <duration>3:55</duration>
+        <icon>ngocha</icon>
+    </song>
+    <song>
+        <id>04</id>
+        <title>Yêu Hết Lòng Có Được Chân Thành</title>
+        <singer>Thu Thủy</singer>
+        <duration>5:02</duration>
+        <icon>thuthuy</icon>
+    </song>
+    <song>
+        <id>05</id>
+        <title>Yêu Hết Lòng Có Được Chân Thành</title>
+        <singer>Thu Thủy</singer>
+        <duration>5:02</duration>
+        <icon>thuthuy</icon>
+    </song>
+    <song>
+        <id>06</id>
+        <title>Yêu Là Tha Thu (Em Chưa 18 OST)</title>
+        <singer>OnlyC</singer>
+        <duration>3:55</duration>
+        <icon>onlyc</icon>
+    </song>
+    <song>
+        <id>07</id>
+        <title>Xin Anh Đừng</title>
+        <singer>Đông Nhi</singer>
+        <duration>5:02</duration>
+        <icon>dongnhi</icon>
+    </song>
+    <song>
+        <id>08</id>
+        <title>Trải Qua</title>
+        <singer>Khởi My</singer>
+        <duration>6:32</duration>
+        <icon>khoimy</icon>
+    </song>
+    <song>
+        <id>09</id>
+        <title>Em Không Là Duy Nhất</title>
+        <singer>Tóc Tiên</singer>
+        <duration>2:02</duration>
+        <icon>toctien</icon>
+    </song>
+    <song>
+        <id>10</id>
+        <title>Ánh Nắng Của Anh (Chờ Em Đến Ngày Mai OST)</title>
+        <singer>Đức Phúc</singer>
+        <duration>8:05</duration>
+        <icon>ducphuc</icon>
+    </song>
+    <song>
+        <id>11</id>
+        <title>Lạc Trôi </title>
+        <singer> Sơn Tùng M-TP</singer>
+        <duration>5:02</duration>
+        <icon>sontung</icon>
+    </song>
+    <song>
+        <id>12</id>
+        <title>Alone</title>
+        <singer> Alan Walker</singer>
+        <duration>2:02</duration>
+        <icon>awlan</icon>
+    </song>
+    <song>
+        <id>13</id>
+        <title>Mình là gì của nhau ?</title>
+        <singer>Lou Hoàng</singer>
+        <duration>6:02</duration>
+        <icon>luuhoan</icon>
+    </song>
+    <song>
+        <id>14</id>
+        <title>Phía Sau Một Cô Gái</title>
+        <singer>Soobin Hoàng Sơn</singer>
+        <duration>5:82</duration>
+        <icon>subin</icon>
+    </song>
+    <song>
+        <id>15</id>
+        <title>Làm Người Yêu Anh Nhé Baby</title>
+        <singer>3 Chú Bộ Đội</singer>
+        <duration>5:92</duration>
+        <icon>bachubd</icon>
+    </song>
+    <song>
+        <id>16</id>
+        <title>Điều Anh Biết</title>
+        <singer>Chi Dân</singer>
+        <duration>1:52</duration>
+        <icon>chidan</icon>
+    </song>
+    <song>
+        <id>17</id>
+        <title>Cause I Love You</title>
+        <singer>Noo Phước Thịnh</singer>
+        <duration>5:02</duration>
+        <icon>noo</icon>
+    </song>
+    <song>
+        <id>18</id>
+        <title>Anh Cứ Đi Đi </title>
+        <singer>Hari Won</singer>
+        <duration>6:02</duration>
+        <icon>hari</icon>
+    </song>
+    <song>
+        <id>19</id>
+        <title>Ngốc</title>
+        <singer>Hương Tràm</singer>
+        <duration>8:02</duration>
+        <icon>huongtram</icon>
+    </song>
+    <song>
+        <id>20</id>
+        <title>Trái Tim Em Cũng Biết Đau</title>
+        <singer>Bảo Anh</singer>
+        <duration>6:02</duration>
+        <icon>baoanh</icon>
+    </song>
+    <song>
+        <id>21</id>
+        <title>Em Đã Biết</title>
+        <singer>Suni Hạ Linh</singer>
+        <duration>5:02</duration>
+        <icon>halinh</icon>
+    </song>
+    <song>
+        <id>22</id>
+        <title>Tình Yêu Chắp Vá</title>
+        <singer> Mr Siro</singer>
+        <duration>5:09</duration>
+        <icon>mrsiro</icon>
+    </song>
+    <song>
+        <id>23</id>
+        <title>Anh Đang Nơi Đâu</title>
+        <singer>Miu Lê</singer>
+        <duration>5:22</duration>
+        <icon>miule</icon>
+    </song>
+    <song>
+        <id>24</id>
+        <title>Thất Tình</title>
+        <singer>Trịnh Đình Quang</singer>
+        <duration>3:02</duration>
+        <icon>trinhdinhquang</icon>
+    </song>
+    
+</music>

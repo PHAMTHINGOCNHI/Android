@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="mangxml">
+        <item >Nguyễn Như ý</item>
+        <item >Mai Chí Tài</item>
+        <item >Tô Phước Nguyên</item>
+        <item >Nguyễn Trịnh Khánh Toàn</item>
+        <item >Mai Anh Tuấn</item>
+        <item >Đỗ Mạnh Phương</item>
+        <item >Phan Ngọc Vỹ</item>
+        <item >Đinh Viết Đệ</item>
+        <item >Nguyễn Tiến Anh</item>
+    </string-array>
+    
+</resources>
